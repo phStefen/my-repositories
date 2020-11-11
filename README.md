@@ -3,7 +3,6 @@
 ### Cursos Feitos:
 -  [x]  T.I - Etec Franco da Rocha
 -  [ ]  ADS - Unicesumar Londrina
--  [ ]  Dispositivos Móveis - IMDFIC
 -  [ ]  Web - Udemy
 -  [ ]  React Native - Udemy
 
